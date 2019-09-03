@@ -1,3 +1,10 @@
+EuroSciPy 2019 tutorial
+=======================
+
+.. image:: https://mybinder.org/badge_logo.svg
+    :target: https://mybinder.org/v2/gh/abukaj/kCSD-python/tutorial-bilbao?filepath=tutorials%2Ftutorial_euroscipy2019.ipynb
+
+
 Kernel Current Source Density
 =============================
 
